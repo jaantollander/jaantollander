@@ -2,5 +2,6 @@
 
 If you have questions, you can join his GitHub [**Discussions**](https://github.com/jaantollander/jaantollander/discussions)!
 
+[![GitHub Discussions](https://img.shields.io/github/discussions/jaantollander/jaantollander)](https://github.com/jaantollander/jaantollander/discussions)
 [![GitHub Sponsors](https://img.shields.io/github/sponsors/jaantollander)](https://github.com/sponsors/jaantollander/)
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC26QrxlhGYTTFhdja4bO2GA?style=social)](https://www.youtube.com/channel/UC26QrxlhGYTTFhdja4bO2GA)
