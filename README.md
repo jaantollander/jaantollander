@@ -1,10 +1,14 @@
-[**Jaan Tollander de Balsch**](https://jaantollander.com/) is a computational scientist with a background in computer science and applied mathematics. Professionally, he applies his skills for technical writing, research software engineering, and scientific computing using tools such as **Julia language**, **Git-based workflows**, and **Linux operating system**. He values writing well-tested and documented open-source software packages with clean interfaces that other developers can understand and use. He has experience developing software packages for simulation algorithms and mathematical optimization models and running code on high-performance computing environments.
+## About
+*Jaan Tollander de Balsch* is a computational scientist with a background in computer science and applied mathematics. Professionally, he applies his skills for technical writing, research software engineering, and scientific computing using tools such as **Julia language**, **Git-based workflows**, and **Linux operating system**. He values writing well-tested and documented open-source software packages with clean interfaces that other developers can understand and use. He has experience developing software packages for simulation algorithms and mathematical optimization models and running code on high-performance computing environments.
 
-If you have questions for me, you can ask them on the discussions.
+- [jaantollander.com](https://jaantollander.com/) - You can read about me and my articles at my website.
+- [YouTube channel](https://www.youtube.com/c/jaantollander) - I also make videos on YouTube about topics related to my projects.
 
-[![GitHub Discussions](https://img.shields.io/github/discussions/jaantollander/jaantollander)](https://github.com/jaantollander/jaantollander/discussions)
-[![GitHub Sponsors](https://img.shields.io/github/sponsors/jaantollander)](https://github.com/sponsors/jaantollander/)
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC26QrxlhGYTTFhdja4bO2GA?style=social)](https://www.youtube.com/c/jaantollander)
+If you have questions for me, you can ask them on my [GitHub Discussions](https://github.com/jaantollander/jaantollander/discussions).
+
+<!-- [![GitHub Discussions](https://img.shields.io/github/discussions/jaantollander/jaantollander)](https://github.com/jaantollander/jaantollander/discussions) -->
+<!-- [![GitHub Sponsors](https://img.shields.io/github/sponsors/jaantollander)](https://github.com/sponsors/jaantollander/) -->
+<!-- [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC26QrxlhGYTTFhdja4bO2GA?style=social)](https://www.youtube.com/c/jaantollander) -->
 
 
 ## [CSC - IT Center for Science](https://www.csc.fi/)
