@@ -11,19 +11,19 @@ If you have questions for me, you can ask them on my [GitHub Discussions](https:
 <!-- [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC26QrxlhGYTTFhdja4bO2GA?style=social)](https://www.youtube.com/c/jaantollander) -->
 
 
-## [CSC - IT Center for Science](https://www.csc.fi/)
-Cloud group.
+## [CSC - IT Center for Science](https://www.csc.fi/en/)
+*Cloud group*.
 
 - [GenieWebApp.jl](https://github.com/csc-training/GenieWebApp.jl) - Julia based web application for testing CSC cloud services. There are instructions on the [documentation](https://csc-training.github.io/GenieWebApp.jl/dev/).
 
 
 ## [Systems Analysis Laboratory](https://sal.aalto.fi/en/)
-[Gamma-Opt](https://github.com/gamma-opt) group.
+[*Gamma-Opt*](https://github.com/gamma-opt) group.
 
 - [DecisionProgramming.jl](https://github.com/gamma-opt/DecisionProgramming.jl)
 - [EnergySystemModeling.jl](https://github.com/gamma-opt/EnergySystemModeling.jl)
 - [ShelfSpaceAllocation.jl](https://github.com/gamma-opt/ShelfSpaceAllocation.jl)
 
-[Crowd Dynamics](https://github.com/crowddynamics) group.
+[*Crowd Dynamics*](https://github.com/crowddynamics) group.
 
 - [CrowdDynamics](https://github.com/crowddynamics/crowddynamics) - Simulation engine for modeling movement of crowds of people.
