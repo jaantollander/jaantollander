@@ -20,6 +20,7 @@ If you have questions for me, you can ask them on my [GitHub Discussions](https:
 ## [Systems Analysis Laboratory](https://sal.aalto.fi/en/)
 [*Gamma-Opt*](https://github.com/gamma-opt) group.
 
+- [RobustDecisionProgramming.jl](https://github.com/gamma-opt/RobustDecisionProgramming.jl)
 - [DecisionProgramming.jl](https://github.com/gamma-opt/DecisionProgramming.jl)
 - [EnergySystemModeling.jl](https://github.com/gamma-opt/EnergySystemModeling.jl)
 - [ShelfSpaceAllocation.jl](https://github.com/gamma-opt/ShelfSpaceAllocation.jl)
