@@ -13,9 +13,7 @@ Finally, I am writing shorter, less technical articles to my [**Newsletter**](ht
 
 
 ## [CSC - IT Center for Science](https://www.csc.fi/en/)
-*Cloud group*.
-
-- [**GenieWebApp.jl**](https://github.com/csc-training/GenieWebApp.jl) - Julia based web application for testing CSC cloud services. There are instructions on the [documentation](https://csc-training.github.io/GenieWebApp.jl/dev/).
+During summer 2021, I worked in the *Cloud group* at CSC, testing their cloud services from the customer's perspective using their publicly available documentation. I created a web application with Julia language, [**GenieWebApp.jl**](https://github.com/csc-training/GenieWebApp.jl), which I deployed to a virtual machine via OpenStack and OpenShift container platform using both the web user and command-line interfaces. All the steps are fully [**documented**](https://csc-training.github.io/GenieWebApp.jl/dev/). We can use the documentation to learn how to use virtual machines or deploy applications as containers.
 
 
 ## [Systems Analysis Laboratory](https://sal.aalto.fi/en/)
