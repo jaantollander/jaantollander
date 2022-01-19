@@ -1,5 +1,5 @@
 ## About
-*Jaan Tollander de Balsch* is a computational scientist with a computer science and applied mathematics background. Professionally, he applies his skills for technical writing, research software engineering, and scientific computing using tools such as **Julia language**, **Git-based workflows**, and **Linux operating system**. He values writing well-tested and documented open-source software packages with clean interfaces that other developers can understand and use. He has experience developing software packages for simulation algorithms and mathematical optimization models and running code on high-performance computing environments.
+*Jaan Tollander de Balsch* is a computational scientist with a computer science and applied mathematics background. Professionally, he applies his skills for technical writing, research software engineering, and scientific computing using tools such as **Julia language**, **Git-based workflows**, and [**Linux operating system**](https://github.com/jaantollander/dotfiles). He values writing well-tested and documented open-source software packages with clean interfaces that other developers can understand and use. He has experience developing software packages for simulation algorithms and mathematical optimization models and running code on high-performance computing environments.
 
 
 ## Personal Projects
