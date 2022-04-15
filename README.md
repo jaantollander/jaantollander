@@ -10,20 +10,3 @@ I also create [**Videos**](https://www.youtube.com/c/jaantollander) on YouTube. 
 Finally, I am writing shorter, less technical articles to my [**Newsletter**](https://world.hey.com/jaan/) about tools, technologies, and resources related to productivity in knowledge work. *(Work-in-Progress!)*
 
 <!-- If you have questions for me, you can ask them on my [GitHub Discussions](https://github.com/jaantollander/jaantollander/discussions). -->
-
-
-## [CSC - IT Center for Science](https://www.csc.fi/en/)
-During summer 2021, I worked in the *Cloud group* at CSC, testing their cloud services from the customer's perspective using their publicly available documentation. I created a web application with Julia language, [**GenieWebApp.jl**](https://github.com/csc-training/GenieWebApp.jl), which I deployed to a virtual machine via OpenStack and OpenShift container platform using both the web user and command-line interfaces. All the steps are fully [**documented**](https://csc-training.github.io/GenieWebApp.jl/dev/). We can use the documentation to learn how to use virtual machines or deploy applications as containers.
-
-
-## [Systems Analysis Laboratory](https://sal.aalto.fi/en/)
-[*Gamma-Opt*](https://github.com/gamma-opt) group.
-
-<!-- - [**RobustDecisionProgramming.jl**](https://github.com/gamma-opt/RobustDecisionProgramming.jl) -->
-- [**DecisionProgramming.jl**](https://github.com/gamma-opt/DecisionProgramming.jl)
-- [**EnergySystemModeling.jl**](https://github.com/gamma-opt/EnergySystemModeling.jl)
-- [**ShelfSpaceAllocation.jl**](https://github.com/gamma-opt/ShelfSpaceAllocation.jl)
-
-[*Crowd Dynamics*](https://github.com/crowddynamics) group.
-
-- [**CrowdDynamics**](https://github.com/crowddynamics/crowddynamics) - Simulation engine for modeling movement of crowds of people.
