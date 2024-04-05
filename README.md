@@ -1,5 +1,4 @@
-## About
-Hi! 
+Nice to meet you! 
 I am Jaan Tollander de Balsch, a computational scientist with a computer science and applied mathematics background.
 Professionally, I have installed, configured, and run software on high-performance computing environments, written technical documentation, and developed software packages for mathematical optimization models and simulation algorithms.
 I value well-tested and documented open-source software packages with clean interfaces that other developers can understand and use.
